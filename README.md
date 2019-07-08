@@ -10,7 +10,7 @@
 7. Send new Message to Firebase db and update two users data in Firebase database Users model room  
 
 
-###Firebase database structure
+### Firebase database structure
 
 Messages:
 
